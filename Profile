@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .profile-img {
+            max-width: 200px;
+            border-radius: 50%;
+        }
+        .contact-button {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: #333;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <img src="your-github-profile-image-url.jpg" alt="Your GitHub Profile" class="profile-img">
+    <h1>Your GitHub Username</h1>
+    <p>GitHub Bio/Description</p>
+    <a href="https://github.com/your-username" class="contact-button">GitHub</a>
+    <a href="mailto:youremail@example.com" class="contact-button">Email</a>
+    <a href="https://linkedin.com/in/your-linkedin-profile" class="contact-button">LinkedIn</a>
+    <!-- Add more buttons as needed -->
+</body>
+</html>
